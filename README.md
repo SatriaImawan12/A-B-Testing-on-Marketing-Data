@@ -127,9 +127,7 @@ H₁ : There is a significant difference in conversion rates between the groups
 ---
 
 ## 📊 Report
-
-An interactive HTML report is available in this repository.  
-Open `ab_testing_report.html` in your browser to view the full visual report, or deploy it via [Netlify Drop](https://app.netlify.com/drop).
+https://699d5ea0277313333cce117b--ab-testing-marketing.netlify.app/
 
 ---
 
