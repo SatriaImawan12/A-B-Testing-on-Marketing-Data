@@ -69,8 +69,8 @@ H₁ : There is a significant difference in conversion rates between the groups
 | Metric | AD Group (Treatment) | PSA Group (Control) |
 |---|---|---|
 | Conversion Rate | **2.55%** | 1.79% |
-| Total Users | — | — |
-| Conversions | — | — |
+| Total Users | 564577 | 23524 |
+| Conversions | 14423 | 420 |
 
 | Statistical Test | Value |
 |---|---|
